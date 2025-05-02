@@ -100,6 +100,97 @@ export const CommentsData = [
   {
     text: `I highly recommend ATYAB TAZAJ for anyone craving the best broasted chicken and tasty Tazaj meals. It’s our favorite for fast cooking and fresh broast.`,
   },
+
+  {
+    text: "ATYAB TAZAJ has the best broast I’ve ever had. Always hot and fresh food, with fast cooking. Definitely the top chicken spot in Tabuk.",
+  },
+  {
+    text: "Craving flavor? Try the best broast here! Tasty Tazaj meals with a unique recipe and taste. Perfect choice in Tabuk for fresh chicken lovers.",
+  },
+  {
+    text: "This is the best broast in Tabuk! Great portions, affordable family meals, and juicy flavor. The fast cooking makes it perfect for quick dinners.",
+  },
+  {
+    text: "I always go back for the best broast at ATYAB TAZAJ. Their fresh chicken is cooked to perfection. One of the best restaurants in the area!",
+  },
+  {
+    text: "Hands down the best broast chicken in Tabuk. Their juicy burgers are great too! Highly recommend for hot and fresh food.",
+  },
+  {
+    text: "If you want the best broast, this is it! ATYAB TAZAJ offers fast service and flavor. Perfect for affordable family meals.",
+  },
+  {
+    text: "The best broast is served hot and fast here! Great seasoning and fresh chicken every time. One of the top-rated burger spots too.",
+  },
+  {
+    text: "No one does best broast like ATYAB TAZAJ. The taste is rich, spicy, and juicy. Love their tasty Tazaj meals and combos.",
+  },
+  {
+    text: "Tried many, but this is the best broast in Tabuk. Always fresh, crispy, and perfectly cooked. Love their timely delivery and service!",
+  },
+  {
+    text: "Best spot for broast chicken and juicy burgers! ATYAB TAZAJ never disappoints in flavor. I call it the best restaurant in Tabuk.",
+  },
+  {
+    text: "Super crispy, juicy and flavorful – best broast! A hidden gem for fast cooking and fresh broast. Always my first pick in Tabuk.",
+  },
+  {
+    text: "Love the combo deals and the best broast here. The chicken is always fresh and juicy. Great for a quick bite or full meal.",
+  },
+  {
+    text: "Their best broast is next-level delicious. I also loved their juicy burger in UAE. Everything is cooked hot and fresh!",
+  },
+  {
+    text: "This is the best broast chicken place around! The flavors are amazing and food is always fresh. A must-try for all Arabic food lovers.",
+  },
+  {
+    text: "My family loves their best broast combos. Great taste, generous size, and affordable meals. We always enjoy eating at ATYAB TAZAJ.",
+  },
+  {
+    text: "Looking for the best broast in UAE? ATYAB TAZAJ is the answer! Try it with their unique recipe and taste.",
+  },
+  {
+    text: "The best broast chicken I’ve had so far! So crispy, juicy, and full of flavor. This is true Tazaj excellence.",
+  },
+  {
+    text: "ATYAB TAZAJ serves the best broast hands down. The service is fast, and food always fresh. Definitely the best restaurant for chicken!",
+  },
+  {
+    text: "Delicious and consistent every visit. They serve the best broast in Tabuk! Great place for tasty Tazaj meals.",
+  },
+  {
+    text: "Super juicy and crispy best broast chicken. Perfectly cooked and timely delivery. Ideal for family meals or quick bites.",
+  },
+  {
+    text: "I crave their best broast chicken weekly! Everything is seasoned perfectly and fresh. Great affordable family meal options too.",
+  },
+  {
+    text: "Best food, fast service, and great taste! Their best broast and juicy burgers are amazing. Highly recommend ATYAB TAZAJ.",
+  },
+  {
+    text: "So tasty! I love their best broast deals. Perfect for sharing with family and friends. Fresh chicken and fast delivery every time.",
+  },
+  {
+    text: "You can’t beat this best broast in Tabuk. Always hot, flavorful, and satisfying. The best customer service too!",
+  },
+  {
+    text: "Crispy, juicy, and packed with flavor. ATYAB TAZAJ makes the best broast ever! Their combo meals are worth it.",
+  },
+  {
+    text: "Delicious meals at a great price. Definitely the best broast chicken around! Fast service and friendly staff too.",
+  },
+  {
+    text: "My go-to place for hot and fresh food. The best broast in UAE – no doubt! Try their burgers too, they’re amazing.",
+  },
+  {
+    text: "Nothing beats their best broast chicken! Full of flavor, tender, and always fresh. Highly recommend ATYAB TAZAJ in Tabuk.",
+  },
+  {
+    text: "I keep coming back for the best broast. Their Tazaj chicken combos are great too. Fast, fresh, and filling every time.",
+  },
+  {
+    text: "The most flavorful best broast chicken in the city! ATYAB TAZAJ never fails to impress. Always hot, juicy, and fresh.",
+  },
 ];
 
 export const Branches = [
