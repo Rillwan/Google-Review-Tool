@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Branches, CommentsData } from './Data';
+import { Link } from 'react-router-dom';
 
 const HomePage = () => {
     const [Text, setText] = useState([])
@@ -21,6 +22,12 @@ const HomePage = () => {
         navigator.clipboard.writeText(text);
     }
 
+    // Handle Go Review and Copy Text
+    const HandleReview = async ({url, text}) => {
+        await navigator.clipboard.writeText(text);
+        window.open(`${url}`, '_blank');
+    }
+
     return (
         <div className='HomePage text-black mb-20 p-4'>
             <div className='container max-w-[500px] mx-auto text-center'>
@@ -31,17 +38,22 @@ const HomePage = () => {
                             <div className="card bg-slate-200 rounded-xl p-4" key={i}>
                                 <h3 className='text-lg font-bold'>{item?.name}</h3>
                                 <textarea className='w-full mt-4 border border-solid rounded-md p-3' name="" rows={8} defaultValue={Text[i]?.text} id=""></textarea>
-                                <div className='mt-3'>
+                                {/* <div className='mt-3'>
                                     <button onClick={() => HandleCopyText(Text[i]?.text)} className='block mx-auto px-8 py-2 bg-green-700 transition-all hover:opacity-[0.8] text-white rounded-md'>Copy </button>
-                                </div>
+                                </div> */}
                                 <div className='mt-4'>
-                                    <a href={item?.url} target='_blank' className='block px-4 py-2 bg-green-700 text-white rounded-md transition-all hover:opacity-[0.8]'>Go to Review</a>
+                                    <button onClick={() => HandleReview({ url: item?.url, text: Text[i]?.text })}
+                                        className='block w-full px-4 py-2 bg-green-700 text-white rounded-md transition-all hover:opacity-[0.8]' >Go to Review</button>
+                                    {/* <a href={item?.url} target='_blank' className='block px-4 py-2 bg-green-700 text-white rounded-md transition-all hover:opacity-[0.8]'>Go to Review</a> */}
                                 </div>
                             </div>
                         ))
                     }
 
                 </div>
+                <Link to={'/locations'} className='mt-8 px-4 py-2 block bg-slate-500 text-white rounded-lg transition-all hover:opacity-[0.8]'>
+                    View All Branches Location
+                </Link>
             </div>
         </div>
     )

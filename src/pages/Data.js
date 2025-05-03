@@ -255,6 +255,24 @@ export const CommentsData = [
 ];
 
 export const Branches = [
+  { name: "MAHARJAN", url: "https://search.google.com/local/writereview?placeid=ChIJcekUiPatqRURQlcAiH_lfM4" },
+  { name: "KHADISIYA", url: "https://search.google.com/local/writereview?placeid=ChIJT9TY4TSvqRURRFuzgy1C_Wo" },
+  { name: "OLAYA", url: "https://search.google.com/local/writereview?placeid=ChIJhZGnwB6tqRURuSw4pCfS-jM" },
+  { name: "DUBA ROAD", url: "https://search.google.com/local/writereview?placeid=ChIJrY6Oe8CtqRURMVHckOF3uqw" },
+  { name: "MUROOJ", url: "https://search.google.com/local/writereview?placeid=ChIJzSFtdB2tqRURbzRUZOAmjn0" },
+  { name: "DHAKHAL-1", url: "https://search.google.com/local/writereview?placeid=ChIJXWBs_M2tqRUR5_co48GiyhQ" },
+  { name: "DHAKHAL-2", url: "https://search.google.com/local/writereview?placeid=ChIJLbMgZNetqRURON9a0TSoXgY" },
+  { name: "SHIFA", url: "https://search.google.com/local/writereview?placeid=ChIJGSzGSgCvqRURE45cXlGuAts" },
+  { name: "SHARLAM", url: "https://search.google.com/local/writereview?placeid=ChIJ4a87JwCtqRUR0fjzqqVlpNg" },
+  { name: "DOMA", url: "https://search.google.com/local/writereview?placeid=ChIJ5xtAJyAvDRURxiIPtXJmzK8" },
+  { name: "SAKKAKA", url: "https://search.google.com/local/writereview?placeid=ChIJdd72wwm5chURE5FbPLkN6qs" },
+  { name: "DAMMAM", url: "https://search.google.com/local/writereview?placeid=ChIJocm8Sgn7ST4RyhcqaA_BTjY" },
+  { name: "HAQAL", url: "https://search.google.com/local/writereview?placeid=ChIJ-6B3x9mZqhUROOQJFwXvyzU&cb" },
+  { name: "HAMRA", url: "https://search.google.com/local/writereview?placeid=ChIJ65ytRQCtqRURqGqt0pf4M-s&cb" },
+];
+
+
+export const AllLocations = [
   { name: "MAHARJAN", url: "https://maps.app.goo.gl/fk8eGpC5ma8YGCtN9" },
   { name: "KHADISIYA", url: "https://maps.app.goo.gl/4MtoMK8bmbLhkx8n8" },
   { name: "OLAYA", url: "https://maps.app.goo.gl/cm9FZdGoe4UkyJqo9" },
@@ -262,11 +280,11 @@ export const Branches = [
   { name: "MUROOJ", url: "https://maps.app.goo.gl/ZAnic3UoeWryUpyC8" },
   { name: "DHAKHAL-1", url: "https://maps.app.goo.gl/uwe7vNizhz7CwCBD7" },
   { name: "DHAKHAL-2", url: "https://maps.app.goo.gl/L6q389HtEh48T5sm6" },
-  { name: "MUROOJ", url: "https://maps.app.goo.gl/4HomQ11jJu89etEr9" },
   { name: "SHIFA", url: "https://maps.app.goo.gl/jGYCfqdC7yQ5zct38" },
   { name: "SHARLAM", url: "https://maps.app.goo.gl/7XPv98BQztfLPBJh7" },
   { name: "DOMA", url: "https://maps.app.goo.gl/UjeEwVyCsjMXVPFq9" },
   { name: "SAKKAKA", url: "https://maps.app.goo.gl/1KFTqKZadDj3pRBZ6" },
   { name: "DAMAM", url: "https://maps.app.goo.gl/wd2fpAE4mPKHwyMY8" },
   { name: "HAQAL", url: "https://maps.app.goo.gl/XAQESTENRbbGgfjE8" },
-];
+  { name: "HAMRA", url: "https://maps.app.goo.gl/t6LmYf2Gy9Vx1Uyv9" },
+] 
