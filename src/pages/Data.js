@@ -1,151 +1,24 @@
 export const CommentsData = [
-  {
-    text: `Absolutely love the broasted chicken at ATYAB TAZAJ! It’s the best broast in Tabuk – always hot and fresh food, and the flavor is just amazing. My go-to for tasty Tazaj meals.`,
-  },
-  {
-    text: `Broasted perfection! I always recommend ATYAB TAZAJ for tasty Tazaj meals, affordable family meals, and best customer service.`,
-  },
-  {
-    text: `Exceptional quality! Their fresh chicken, Tazaj combos, and fast cooking make ATYAB TAZAJ the best restaurant in the area.`,
-  },
-  {
-    text: `Hands-down the best broast in UAE. Always hot, fresh, and full of bold flavor. ATYAB TAZAJ is a true gem.`,
-  },
-  {
-    text: `You haven’t had real broast until you try ATYAB TAZAJ! Their best broast and juicy burgers are worth every bite.`,
-  },
-  {
-    text: `Never tasted broast like this before – so juicy and flavorful. Truly the best broasted chicken in Tabuk with timely delivery.`,
-  },
-  {
-    text: `Perfect for families! The meals are large, affordable, and served with the best customer service in town. Love ATYAB TAZAJ!`,
-  },
-  {
-    text: `They really care about quality. The fresh chicken and unique recipe and taste make ATYAB TAZAJ a standout in best Arabic food.`,
-  },
-  {
-    text: `Incredible flavor and portion size. Definitely the best chicken spot in Tabuk. Try their juicy burger – it's a must!`,
-  },
-  {
-    text: `Love their combos! ATYAB TAZAJ offers the best Tazaj chicken combo, full of flavor and perfect for fast cooking and fresh broast cravings.`,
-  },
-  {
-    text: `The best broast I’ve ever had! ATYAB TAZAJ in Tabuk always serves hot and fresh food with excellent quality.`,
-  },
-  {
-    text: `Amazing experience at ATYAB TAZAJ! Their Tazaj meals are unbeatable, and the customer service is truly the best in Tabuk.`,
-  },
-  {
-    text: `Super tasty, fast service, and always fresh. Definitely the best broast chicken spot in Tabuk for affordable family meals.`,
-  },
-  {
-    text: `ATYAB TAZAJ is the only place I trust for best Arabic food, broasted chicken, and juicy burgers in UAE – always amazing.`,
-  },
-  {
-    text: `Can’t beat ATYAB TAZAJ’s fresh chicken and delicious broasted meals. It's the best restaurant for hot and fresh food always.`,
-  },
-  {
-    text: `Tried their Tazaj chicken combo and I’m hooked! So juicy, so good – absolutely the best broast in Tabuk with fast cooking service.`,
-  },
-  {
-    text: `Fresh, flavorful, and delivered fast – ATYAB TAZAJ is hands-down the best broasted chicken place with timely delivery and great prices!`,
-  },
-  {
-    text: `Family favorite! ATYAB TAZAJ delivers fresh chicken with timely delivery and best customer service. This is the top-rated burger spot in Tabuk for a reason.`,
-  },
-
-  {
-    text: `So glad we found this gem! The best broast chicken in Tabuk, full of flavor and served with care. A must-try for lovers of hot and fresh food and affordable meals.`,
-  },
-
-  {
-    text: `ATYAB TAZAJ serves the best broast chicken in Tabuk! Always fresh chicken, crispy outside and juicy inside. A true best restaurant experience.`,
-  },
-
-  {
-    text: `This place never disappoints! Amazing tasty Tazaj meals, the best broasted chicken in Tabuk, and very fast cooking – perfect for busy families.`,
-  },
-
-  {
-    text: `Our family loves ATYAB TAZAJ! The unique recipe and taste make it the best chicken spot for affordable family meals.`,
-  },
-
-  {
-    text: `Craving real flavor? ATYAB TAZAJ is the top-rated burger spot with juicy burgers in Tabuk and the best broast combos.`,
-  },
-  {
-    text: `If you're looking for the best broasted chicken in Tabuk, this is the spot! ATYAB TAZAJ serves fresh chicken with a unique recipe and taste – nothing else compares.`,
-  },
-
-  {
-    text: `I’ve tried many places, but ATYAB TAZAJ has the best broast chicken and juicy burgers in Tabuk. Fast cooking, affordable, and perfect for family dinners!`,
-  },
-
-  {
-    text: `Top-rated for a reason! The best restaurant in Tabuk for broasted chicken and Tazaj chicken combos. Super fresh and delivered on time, every time.`,
-  },
-
-  {
-    text: `The flavor is unmatched! ATYAB TAZAJ is hands-down the best chicken spot with affordable family meals. You can taste the quality in every fresh, juicy bite.`,
-  },
-
-  {
-    text: `Love this place! Their broasted chicken is crispy, juicy, and always hot and fresh. Definitely the best broast in UAE – quick service and great food!`,
-  },
-
-  {
-    text: `Delicious! ATYAB TAZAJ has the best Tazaj chicken combo I’ve ever had. Their unique recipe and taste set them apart from any other Arabic food spot in Tabuk.`,
-  },
-
-  {
-    text: `I highly recommend ATYAB TAZAJ for anyone craving the best broasted chicken and tasty Tazaj meals. It’s our favorite for fast cooking and fresh broast.`,
-  },
-
-  {
-    text: "ATYAB TAZAJ has the best broast I’ve ever had. Always hot and fresh food, with fast cooking. Definitely the top chicken spot in Tabuk.",
-  },
-  {
-    text: "Craving flavor? Try the best broast here! Tasty Tazaj meals with a unique recipe and taste. Perfect choice in Tabuk for fresh chicken lovers.",
-  },
-  {
-    text: "This is the best broast in Tabuk! Great portions, affordable family meals, and juicy flavor. The fast cooking makes it perfect for quick dinners.",
-  },
-  {
-    text: "I always go back for the best broast at ATYAB TAZAJ. Their fresh chicken is cooked to perfection. One of the best restaurants in the area!",
-  },
-  {
-    text: "Hands down the best broast chicken in Tabuk. Their juicy burgers are great too! Highly recommend for hot and fresh food.",
-  },
-  {
-    text: "If you want the best broast, this is it! ATYAB TAZAJ offers fast service and flavor. Perfect for affordable family meals.",
-  },
-  {
-    text: "The best broast is served hot and fast here! Great seasoning and fresh chicken every time. One of the top-rated burger spots too.",
-  },
-  {
-    text: "No one does best broast like ATYAB TAZAJ. The taste is rich, spicy, and juicy. Love their tasty Tazaj meals and combos.",
-  },
-  {
-    text: "Tried many, but this is the best broast in Tabuk. Always fresh, crispy, and perfectly cooked. Love their timely delivery and service!",
-  },
-  {
-    text: "Best spot for broast chicken and juicy burgers! ATYAB TAZAJ never disappoints in flavor. I call it the best restaurant in Tabuk.",
-  },
-  {
-    text: "Super crispy, juicy and flavorful – best broast! A hidden gem for fast cooking and fresh broast. Always my first pick in Tabuk.",
-  },
-  {
-    text: "Love the combo deals and the best broast here. The chicken is always fresh and juicy. Great for a quick bite or full meal.",
-  },
-  {
-    text: "Their best broast is next-level delicious. I also loved their juicy burger in UAE. Everything is cooked hot and fresh!",
-  },
-  {
-    text: "This is the best broast chicken place around! The flavors are amazing and food is always fresh. A must-try for all Arabic food lovers.",
-  },
-  {
-    text: "My family loves their best broast combos. Great taste, generous size, and affordable meals. We always enjoy eating at ATYAB TAZAJ.",
-  },
+  { text: "As for the food, this is the best broast I’ve ever had!" },
+  { text: "Atyab Tazaj serves the best fresh chicken in Tabuk!" },
+  { text: "Best broast in Tabuk! Hot, crispy, and always fresh." },
+  { text: "Atyab Tazaj is my favorite spot for broast in Tabuk!" },
+  { text: "Fresh chicken and flavor! Best broast in Tabuk area." },
+  { text: "Best restaurant in Tabuk, Saudi – love Atyab Tazaj!" },
+  { text: "Always fresh and juicy – truly the best broast here!" },
+  { text: "Atyab Tazaj never fails! Best broast in all of Tabuk." },
+  { text: "Best broast chicken in Saudi! Atyab Tazaj nails it." },
+  { text: "The flavor says it all – best fresh chicken ever!" },
+  { text: "بالنسبة للطعام، هذا أفضل بروست تناولته في حياتي!" },
+  { text: "أطيب طازج يقدم أفضل دجاج طازج في تبوك!" },
+  { text: "أفضل بروست في تبوك! حار، مقرمش، وطازج دائمًا." },
+  { text: "أطيب طازج هو مكاني المفضل للبروست في تبوك!" },
+  { text: "دجاج طازج ونكهة مميزة! أفضل بروست في منطقة تبوك." },
+  { text: "أفضل مطعم في تبوك، السعودية – أحب أطيب طازج!" },
+  { text: "دائمًا طازج وعصاري – فعلاً أفضل بروست هنا!" },
+  { text: "أطيب طازج ما يخيب! أفضل بروست في تبوك كلها." },
+  { text: "أفضل دجاج بروست في السعودية! أطيب طازج متقن." },
+  { text: "الطعم يتكلم – أفضل دجاج طازج على الإطلاق!" },
   {
     text: "Looking for the best broast in UAE? ATYAB TAZAJ is the answer! Try it with their unique recipe and taste.",
   },
@@ -255,22 +128,63 @@ export const CommentsData = [
 ];
 
 export const Branches = [
-  { name: "MAHARJAN", url: "https://search.google.com/local/writereview?placeid=ChIJcekUiPatqRURQlcAiH_lfM4" },
-  { name: "KHADISIYA", url: "https://search.google.com/local/writereview?placeid=ChIJT9TY4TSvqRURRFuzgy1C_Wo" },
-  { name: "OLAYA", url: "https://search.google.com/local/writereview?placeid=ChIJhZGnwB6tqRURuSw4pCfS-jM" },
-  { name: "DUBA ROAD", url: "https://search.google.com/local/writereview?placeid=ChIJrY6Oe8CtqRURMVHckOF3uqw" },
-  { name: "MUROOJ", url: "https://search.google.com/local/writereview?placeid=ChIJzSFtdB2tqRURbzRUZOAmjn0" },
-  { name: "DHAKHAL-1", url: "https://search.google.com/local/writereview?placeid=ChIJXWBs_M2tqRUR5_co48GiyhQ" },
-  { name: "DHAKHAL-2", url: "https://search.google.com/local/writereview?placeid=ChIJLbMgZNetqRURON9a0TSoXgY" },
-  { name: "SHIFA", url: "https://search.google.com/local/writereview?placeid=ChIJGSzGSgCvqRURE45cXlGuAts" },
-  { name: "SHARLAM", url: "https://search.google.com/local/writereview?placeid=ChIJ4a87JwCtqRUR0fjzqqVlpNg" },
-  { name: "DOMA", url: "https://search.google.com/local/writereview?placeid=ChIJ5xtAJyAvDRURxiIPtXJmzK8" },
-  { name: "SAKKAKA", url: "https://search.google.com/local/writereview?placeid=ChIJdd72wwm5chURE5FbPLkN6qs" },
-  { name: "DAMMAM", url: "https://search.google.com/local/writereview?placeid=ChIJocm8Sgn7ST4RyhcqaA_BTjY" },
-  { name: "HAQAL", url: "https://search.google.com/local/writereview?placeid=ChIJ-6B3x9mZqhUROOQJFwXvyzU&cb" },
-  { name: "HAMRA", url: "https://search.google.com/local/writereview?placeid=ChIJ65ytRQCtqRURqGqt0pf4M-s&cb" },
+  {
+    name: "MAHARJAN",
+    url: "https://search.google.com/local/writereview?placeid=ChIJcekUiPatqRURQlcAiH_lfM4",
+  },
+  {
+    name: "KHADISIYA",
+    url: "https://search.google.com/local/writereview?placeid=ChIJT9TY4TSvqRURRFuzgy1C_Wo",
+  },
+  {
+    name: "OLAYA",
+    url: "https://search.google.com/local/writereview?placeid=ChIJhZGnwB6tqRURuSw4pCfS-jM",
+  },
+  {
+    name: "DUBA ROAD",
+    url: "https://search.google.com/local/writereview?placeid=ChIJrY6Oe8CtqRURMVHckOF3uqw",
+  },
+  {
+    name: "MUROOJ",
+    url: "https://search.google.com/local/writereview?placeid=ChIJzSFtdB2tqRURbzRUZOAmjn0",
+  },
+  {
+    name: "DHAKHAL-1",
+    url: "https://search.google.com/local/writereview?placeid=ChIJXWBs_M2tqRUR5_co48GiyhQ",
+  },
+  {
+    name: "DHAKHAL-2",
+    url: "https://search.google.com/local/writereview?placeid=ChIJLbMgZNetqRURON9a0TSoXgY",
+  },
+  {
+    name: "SHIFA",
+    url: "https://search.google.com/local/writereview?placeid=ChIJGSzGSgCvqRURE45cXlGuAts",
+  },
+  {
+    name: "SHARLAM",
+    url: "https://search.google.com/local/writereview?placeid=ChIJ4a87JwCtqRUR0fjzqqVlpNg",
+  },
+  {
+    name: "DOMA",
+    url: "https://search.google.com/local/writereview?placeid=ChIJ5xtAJyAvDRURxiIPtXJmzK8",
+  },
+  {
+    name: "SAKKAKA",
+    url: "https://search.google.com/local/writereview?placeid=ChIJdd72wwm5chURE5FbPLkN6qs",
+  },
+  {
+    name: "DAMMAM",
+    url: "https://search.google.com/local/writereview?placeid=ChIJocm8Sgn7ST4RyhcqaA_BTjY",
+  },
+  {
+    name: "HAQAL",
+    url: "https://search.google.com/local/writereview?placeid=ChIJ-6B3x9mZqhUROOQJFwXvyzU&cb",
+  },
+  {
+    name: "HAMRA",
+    url: "https://search.google.com/local/writereview?placeid=ChIJ65ytRQCtqRURqGqt0pf4M-s&cb",
+  },
 ];
-
 
 export const AllLocations = [
   { name: "MAHARJAN", url: "https://maps.app.goo.gl/fk8eGpC5ma8YGCtN9" },
@@ -287,4 +201,4 @@ export const AllLocations = [
   { name: "DAMAM", url: "https://maps.app.goo.gl/wd2fpAE4mPKHwyMY8" },
   { name: "HAQAL", url: "https://maps.app.goo.gl/XAQESTENRbbGgfjE8" },
   { name: "HAMRA", url: "https://maps.app.goo.gl/t6LmYf2Gy9Vx1Uyv9" },
-] 
+];
