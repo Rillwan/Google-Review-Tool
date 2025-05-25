@@ -262,6 +262,12 @@ export const TabukBranch = {
   ],
   comments: [
     {
+      text: "Always fresh, always tasty – best broasted restaurant in Tabuk! Affordable family meals and speedy cooking make it even better.",
+    },
+    {
+      text: "So tasty! I love their best broast deals. Perfect for sharing with family and friends. Fresh chicken and fast delivery every time.",
+    },
+    {
       text: "مطعم اطياب الطازج هو افضل مطعم بروست في تبوك! وجبات الطازج عندهم لا تُقاوم، المكان نظيف والخدمة ممتازة وسريعة جدًا. أنصح الجميع بتجربة البروست .",
     },
     {
@@ -352,7 +358,7 @@ export const TabukBranch = {
       text: "Fresh chicken, tasty spices, and fast service. That’s the best broast experience at ATYAB TAZAJ. Their combo meals are perfect.",
     },
     {
-      text: "Looking for the best broast in Tabuk? This is it. ATYAB TAZAJ delivers fresh, delicious meals with top service every time.",
+      text: "Looking for the best broasted restaurant in Tabuk? This is it. ATYAB TAZAJ delivers fresh, delicious meals with top service every time.",
     },
     {
       text: "Always fresh, always tasty – best broast in Tabuk! Affordable family meals and speedy cooking make it even better.",
@@ -373,7 +379,7 @@ export const TabukBranch = {
       text: "My go-to place for tasty Tazaj meals and the best broast. Always hot and fresh with generous portions. Highly recommended!",
     },
     {
-      text: "Perfectly seasoned and cooked, the best broast in Tabuk! Great customer service and amazing combo options too.",
+      text: "Perfectly seasoned and cooked, the best broasted restaurant in Tabuk! Great customer service and amazing combo options too.",
     },
     {
       text: "This is more than food – it’s flavor perfection. Best broast, fresh chicken, and great prices. ATYAB TAZAJ is a winner.",
@@ -393,6 +399,9 @@ export const TabukBranch = {
     {
       text: "Best broast combo I’ve had in Tabuk! Juicy chicken, crispy coating, and perfect seasoning. ATYAB TAZAJ does it right.",
     },
+    {
+      text: "The best broast in Tabuk with juicy, tender meat. Also love their burgers and friendly staff. Always my top restaurant pick.",
+    },
   ],
 };
 
@@ -405,6 +414,27 @@ export const DammamBranch = {
     },
   ],
   comments: [
+    {
+      text: "Always fresh, always tasty – best broasted restaurant in Dammam! Affordable family meals and speedy cooking make it even better.",
+    },
+    {
+      text: "So tasty! I love their best broast deals. Perfect for sharing with family and friends. Fresh chicken and fast delivery every time.",
+    },
+    {
+      text: "I keep coming back for their best broast deals. Flavorful, filling, and always fresh. My favorite broast spot in Dammam!",
+    },
+    {
+      text: "Fast delivery, fresh food, and bold flavors. That’s why ATYAB TAZAJ serves the best broast chicken every single time.",
+    },
+    {
+      text: "One bite and you’ll know – this is the best broast in town. Great quality and fast cooking make it unbeatable.",
+    },
+    {
+      text: "Best broast combo I’ve had in Dammam! Juicy chicken, crispy coating, and perfect seasoning. ATYAB TAZAJ does it right.",
+    },
+    {
+      text: "The best broast in Dammam with juicy, tender meat. Also love their burgers and friendly staff. Always my top restaurant pick.",
+    },
     {
       text: "مطعم اطياب الطازج في الدمام هو افضل مطعم بروست جربته! الطعم رائع والخدمة ممتازة جدًا. وجبات الطازج عندهم لا تُفوت.",
     },
@@ -472,6 +502,27 @@ export const SakakaBranch = {
   ],
   comments: [
     {
+      text: "Always fresh, always tasty – best broasted restaurant in Sakakah! Affordable family meals and speedy cooking make it even better.",
+    },
+    {
+      text: "So tasty! I love their best broast deals. Perfect for sharing with family and friends. Fresh chicken and fast delivery every time.",
+    },
+    {
+      text: "I keep coming back for their best broast deals. Flavorful, filling, and always fresh. My favorite broast spot in Sakakah!",
+    },
+    {
+      text: "Fast delivery, fresh food, and bold flavors. That’s why ATYAB TAZAJ serves the best broast chicken every single time.",
+    },
+    {
+      text: "One bite and you’ll know – this is the best broast in town. Great quality and fast cooking make it unbeatable.",
+    },
+    {
+      text: "Best broast combo I’ve had in Sakakah! Juicy chicken, crispy coating, and perfect seasoning. ATYAB TAZAJ does it right.",
+    },
+    {
+      text: "The best broast in Sakakah with juicy, tender meat. Also love their burgers and friendly staff. Always my top restaurant pick.",
+    },
+    {
       text: "مطعم اطياب الطازج في سكاكا هو افضل مطعم بروست جربته! الطعم رائع والخدمة ممتازة جدًا. وجبات الطازج عندهم لا تُفوت.",
     },
     {
@@ -538,6 +589,27 @@ export const HaqlBranch = {
   ],
   comments: [
     {
+      text: "Always fresh, always tasty – best broasted restaurant in Haql! Affordable family meals and speedy cooking make it even better.",
+    },
+    {
+      text: "So tasty! I love their best broast deals. Perfect for sharing with family and friends. Fresh chicken and fast delivery every time.",
+    },
+    {
+      text: "I keep coming back for their best broast deals. Flavorful, filling, and always fresh. My favorite broast spot in Haql!",
+    },
+    {
+      text: "Fast delivery, fresh food, and bold flavors. That’s why ATYAB TAZAJ serves the best broast chicken every single time.",
+    },
+    {
+      text: "One bite and you’ll know – this is the best broast in town. Great quality and fast cooking make it unbeatable.",
+    },
+    {
+      text: "Best broast combo I’ve had in Haql! Juicy chicken, crispy coating, and perfect seasoning. ATYAB TAZAJ does it right.",
+    },
+    {
+      text: "The best broast in Haql with juicy, tender meat. Also love their burgers and friendly staff. Always my top restaurant pick.",
+    },
+    {
       text: "مطعم اطياب الطازج في حقل هو افضل مطعم بروست جربته! الطعم رائع والخدمة ممتازة جدًا. وجبات الطازج عندهم لا تُفوت.",
     },
     {
@@ -603,6 +675,27 @@ export const DomaBranch = {
     },
   ],
   comments: [
+    {
+      text: "Always fresh, always tasty – best broasted restaurant in Dumat! Affordable family meals and speedy cooking make it even better.",
+    },
+    {
+      text: "So tasty! I love their best broast deals. Perfect for sharing with family and friends. Fresh chicken and fast delivery every time.",
+    },
+    {
+      text: "I keep coming back for their best broast deals. Flavorful, filling, and always fresh. My favorite broast spot in Dumat!",
+    },
+    {
+      text: "Fast delivery, fresh food, and bold flavors. That’s why ATYAB TAZAJ serves the best broast chicken every single time.",
+    },
+    {
+      text: "One bite and you’ll know – this is the best broast in town. Great quality and fast cooking make it unbeatable.",
+    },
+    {
+      text: "Best broast combo I’ve had in Dumat! Juicy chicken, crispy coating, and perfect seasoning. ATYAB TAZAJ does it right.",
+    },
+    {
+      text: "The best broast in Dumat with juicy, tender meat. Also love their burgers and friendly staff. Always my top restaurant pick.",
+    },
     {
       text: "مطعم اطياب الطازج في دومة الجندل هو افضل مطعم بروست جربته! الطعم رائع والخدمة ممتازة جدًا. وجبات الطازج عندهم لا تُفوت.",
     },
