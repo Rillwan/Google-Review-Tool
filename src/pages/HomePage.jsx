@@ -1,6 +1,29 @@
 import React, { useEffect, useState } from 'react'
 import { DammamBranch, DomaBranch, HaqlBranch, SakakaBranch, TabukBranch } from './Data';
 import { Link } from 'react-router-dom';
+import { FaInstagram } from "react-icons/fa";
+import { FaFacebookF } from 'react-icons/fa6';
+import { FaTiktok } from "react-icons/fa";
+import { FaSnapchatGhost } from "react-icons/fa";
+
+const SocialLinks = [
+    {
+        Icon: FaFacebookF,
+        link: 'https://www.facebook.com/share/1BWNTuoJbq/?mibextid=wwXIfr',
+    },
+    {
+        Icon: FaInstagram,
+        link: 'https://www.instagram.com/atyaabaltazaj_ksa?igsh=aWVwcG5uMWZzdnZx',
+    },
+    {
+        Icon: FaTiktok,
+        link: 'https://www.tiktok.com/@atyabtazaj?_t=ZS-8wcnqNh7aIC&_r=1',
+    },
+    {
+        Icon: FaSnapchatGhost,
+        link: 'https://www.snapchat.com/add/atyaabtazaj',
+    },
+]
 
 const HomePage = () => {
     const [Texts, setTexts] = useState({
@@ -27,7 +50,7 @@ const HomePage = () => {
             Doma: RandomCommentsGenerate(DomaBranch?.comments),
         });
     }, [])
-    
+
     // Handle Copy Text
     const HandleCopyText = (text) => {
         navigator.clipboard.writeText(text);
@@ -133,6 +156,25 @@ const HomePage = () => {
                 <Link to={'/locations'} className='mt-8 px-4 py-2 block bg-slate-500 text-white rounded-lg transition-all hover:opacity-[0.8]'>
                     View All Branches Location
                 </Link>
+
+                {/* Social Links  */}
+                <div className='mt-8'>
+                    <div className='flex gap-4 items-center justify-center flex-wrap'>
+                        {
+                            SocialLinks?.map((item, i) => (
+                                <div className='' key={i}>
+                                    <a href={item?.link} target='_blank'
+                                        className='p-2 flex bg-green-700 text-white rounded-full w-[50px] h-[50px] items-center justify-center hover:opacity-[0.8]'
+                                    >
+                                        {
+                                            item?.Icon && (<item.Icon className='flex text-[25px]' />)
+                                        }
+                                    </a>
+                                </div>
+                            ))
+                        }
+                    </div>
+                </div>
             </div>
         </div>
     )
