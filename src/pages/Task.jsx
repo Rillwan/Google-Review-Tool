@@ -23,12 +23,11 @@ const Task = () => {
         window.open(`${RLink}`, '_blank');
     }
 
-    useEffect(() => {
-        console.log("1");
-        if (text[0]?.text) {
-            HandleReview({ text: text[0]?.text });
-        }
-    })
+    // useEffect(() => {
+    //     if (text[0]?.text) {
+    //         HandleReview({ text: text[0]?.text });
+    //     }
+    // });
     
     return (
         <div className='Task-page'>
