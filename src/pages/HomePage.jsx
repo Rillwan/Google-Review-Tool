@@ -157,6 +157,10 @@ const HomePage = () => {
                     View All Branches Location
                 </Link>
 
+                <Link to={'/task'} className='mt-8 px-4 py-2 block bg-slate-800 text-white rounded-lg transition-all hover:opacity-[0.8]'>
+                    Daily Task
+                </Link>
+
                 {/* Social Links  */}
                 <div className='mt-8'>
                     <div className='flex gap-4 items-center justify-center flex-wrap'>
