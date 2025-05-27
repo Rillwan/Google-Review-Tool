@@ -161,6 +161,10 @@ const HomePage = () => {
                     Daily Task
                 </Link>
 
+                 <Link to={'/branches'} className='mt-8 px-4 py-2 block bg-slate-800 text-white rounded-lg transition-all hover:opacity-[0.8]'>
+                    All Branches Each Review
+                </Link>
+
                 {/* Social Links  */}
                 <div className='mt-8'>
                     <div className='flex gap-4 items-center justify-center flex-wrap'>

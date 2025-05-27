@@ -756,58 +756,72 @@ export const DomaBranch = {
 export const Branches = [
   {
     name: "MAHARJAN",
-    url: "https://search.google.com/local/writereview?placeid=ChIJcekUiPatqRURQlcAiH_lfM4",
+    route:"maharjan",
+    url: "https://g.page/r/CUJXAIh_5XzOEBM/review",
   },
   {
     name: "KHADISIYA",
+    route:"khadasiya",
     url: "https://search.google.com/local/writereview?placeid=ChIJT9TY4TSvqRURRFuzgy1C_Wo",
   },
   {
     name: "OLAYA",
-    url: "https://search.google.com/local/writereview?placeid=ChIJhZGnwB6tqRURuSw4pCfS-jM",
+    route:"olaya",
+    url: "https://g.page/r/CbksOKQn0vozEBM/review",
   },
   {
     name: "DUBA ROAD",
+    route:"duba-road",
     url: "https://search.google.com/local/writereview?placeid=ChIJrY6Oe8CtqRURMVHckOF3uqw",
   },
   {
     name: "MUROOJ",
+    route:"murooj",
     url: "https://search.google.com/local/writereview?placeid=ChIJzSFtdB2tqRURbzRUZOAmjn0",
   },
   {
     name: "DHAKHAL-1",
+    route:"dhakhal-1",
     url: "https://search.google.com/local/writereview?placeid=ChIJXWBs_M2tqRUR5_co48GiyhQ",
   },
   {
     name: "DHAKHAL-2",
+    route:"dhakhal-2",
     url: "https://search.google.com/local/writereview?placeid=ChIJLbMgZNetqRURON9a0TSoXgY",
   },
   {
     name: "SHIFA",
+    route:"shifa",
     url: "https://search.google.com/local/writereview?placeid=ChIJGSzGSgCvqRURE45cXlGuAts",
   },
   {
-    name: "SHARLAM",
+    name: "SHAHARLAM",
+     route:"shaharlam",
     url: "https://search.google.com/local/writereview?placeid=ChIJ4a87JwCtqRUR0fjzqqVlpNg",
   },
   {
     name: "DOMA",
+     route:"doma",
     url: "https://search.google.com/local/writereview?placeid=ChIJ5xtAJyAvDRURxiIPtXJmzK8",
   },
   {
     name: "SAKKAKA",
+     route:"sakkaka",
     url: "https://search.google.com/local/writereview?placeid=ChIJdd72wwm5chURE5FbPLkN6qs",
   },
   {
     name: "DAMMAM",
+     route:"dammam",
     url: "https://search.google.com/local/writereview?placeid=ChIJocm8Sgn7ST4RyhcqaA_BTjY",
   },
   {
-    name: "HAQAL",
+    name: "HAQL",
+     route:"haql",
     url: "https://search.google.com/local/writereview?placeid=ChIJ-6B3x9mZqhUROOQJFwXvyzU&cb",
   },
   {
     name: "HAMRA",
+     route:"hamra",
     url: "https://search.google.com/local/writereview?placeid=ChIJ65ytRQCtqRURqGqt0pf4M-s&cb",
   },
 ];
@@ -827,4 +841,19 @@ export const AllLocations = [
   { name: "DAMAM", url: "https://maps.app.goo.gl/wd2fpAE4mPKHwyMY8" },
   { name: "HAQAL", url: "https://maps.app.goo.gl/XAQESTENRbbGgfjE8" },
   { name: "HAMRA", url: "https://maps.app.goo.gl/t6LmYf2Gy9Vx1Uyv9" },
+];
+
+// ----------------------
+// TABU BRANCHES
+export const TabukArea = [
+  {
+    name: "MAHARJAN",
+    route:"maharjan",
+    url: "https://g.page/r/CUJXAIh_5XzOEBM/review",
+  },
+  {
+    name: "OLAYA",
+    route:"olaya",
+    url: "https://g.page/r/CbksOKQn0vozEBM/review",
+  },
 ];
