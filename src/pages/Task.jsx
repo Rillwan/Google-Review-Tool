@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { TabukBranch } from './Data';
 
 // ULAYYA
-const RLink = 'https://g.page/r/CbksOKQn0vozEBM/review'
+const RLink = 'https://search.google.com/local/writereview?placeid=ChIJGSzGSgCvqRURE45cXlGuAts'
 
 const Task = () => {
     const [text, setText] = useState([])
@@ -36,7 +36,7 @@ const Task = () => {
                     <div className='relative p-4 h-full'>
                         <div className='absolute top-1/2 left-1/2 -translate-1/2'>
                             <button onClick={() => HandleReview({ text: text[0]?.text })}
-                                className='px-6 py-2 bg-green-700 text-white rounded-lg font-medium hover:opacity-[0.8]'>Go to Review - Ulayya Branch</button>
+                                className='px-6 py-2 bg-green-700 text-white rounded-lg font-medium hover:opacity-[0.8]'>Go to Review - Al Shafa Branch</button>
                         </div>
                     </div>
                 </div>
